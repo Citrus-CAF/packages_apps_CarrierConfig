@@ -22,5 +22,6 @@
             <item value="mms:default_randomization=2000,10000,18000:5000,720000:5000,2160000:5000" />
             <item value="others:max_retries=3,5000,5000,5000" />
         </string-array>
+        <boolean name="carrier_disable_etws_cmas_dup_detection" value="true" />
     </carrier_config>
 </carrier_config_list>
